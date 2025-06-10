@@ -1,6 +1,3 @@
-Certainly! Here's the updated `README.md` for your **NN-From-Scratch** repository, incorporating instructions on running the `nn.py` script directly from the command line:
-
----
 
 # NN-From-Scratch
 
